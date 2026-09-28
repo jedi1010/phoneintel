@@ -48,7 +48,7 @@ Kali Linux, Debian, Ubuntu and other Linux distributions are supported.
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/phoneintel.git
+git clone https://github.com/jedi1010/phoneintel.git
 cd phoneintel
 ```
 
