@@ -103,7 +103,8 @@ chmod +x phoneintel.py
 Run:
 
 ```bash
-python phoneintel.py +971526298294
+python phoneintel.py +97152*******
+./phoneintel.py +97152*******
 ```
 
 Replace the example number with a number you are authorized to analyze.
