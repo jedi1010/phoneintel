@@ -159,7 +159,7 @@ chmod +x phoneintel.py
 Then:
 
 ```bash
-./phoneintel.py +971526298294
+./phoneintel.py +97152*******
 ```
 
 ## JSON output
