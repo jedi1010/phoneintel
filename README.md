@@ -214,6 +214,41 @@ Only analyze phone numbers when you have a legitimate reason and appropriate aut
 
 Do not use this project to harass, stalk, impersonate, or obtain private information about another person.
 
+# Disclaimer
+
+PhoneIntel is provided for **educational purposes only**.
+
+The tool uses publicly available numbering metadata to provide information such as country/region, carrier information, number type, validity status, formatting, and associated time zones. It does **not** provide GPS location, real-time physical location, SIM/IMSI information, IMEI information, private subscriber information, call records, SMS records, or access to private accounts or devices.
+
+## Responsible Use
+
+You are responsible for ensuring that your use of PhoneIntel complies with all applicable laws, regulations, privacy requirements, and terms of service in your jurisdiction.
+
+Do not use this software to:
+
+* Track or locate individuals without authorization.
+* Harass, threaten, stalk, or intimidate anyone.
+* Obtain private or confidential information without permission.
+* Attempt unauthorized access to phones, networks, accounts, or services.
+* Conduct fraud, impersonation, or other illegal activities.
+* Circumvent privacy or security protections.
+
+Only analyze phone numbers that you are authorized to investigate or that you have a legitimate reason to process.
+
+## Accuracy
+
+PhoneIntel relies on third-party numbering metadata and public databases. Results may be incomplete, outdated, inaccurate, or unavailable for certain numbers.
+
+A phone number's reported country, carrier, region, time zone, validity, or type should not be treated as proof of a person's identity, physical location, nationality, residence, or current carrier.
+
+## No Warranty
+
+This software is provided **"as is"**, without warranties of any kind. The developers and contributors are not responsible for any damage, loss, privacy violation, legal issue, or other consequence resulting from the use or misuse of this software.
+
+By using PhoneIntel, you acknowledge that you are responsible for your own actions and for complying with applicable laws and regulations.
+
+**Use responsibly.**
+
 ## License
 
 This project is released under the MIT License. See `LICENSE` for details.
