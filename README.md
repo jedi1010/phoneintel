@@ -104,6 +104,7 @@ Run:
 
 ```bash
 python phoneintel.py +97152*******
+or
 ./phoneintel.py +97152*******
 ```
 
