@@ -93,6 +93,9 @@ Then:
 python3 -m venv .venv
 source .venv/bin/activate
 pip install -r requirements.txt
+ls -l phoneintel.py
+sudo chown username:username phoneintel.py
+chmod +x phoneintel.py
 ```
 
 ## Usage
