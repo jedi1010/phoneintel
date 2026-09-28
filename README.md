@@ -198,16 +198,6 @@ Use fictional or test numbers when publishing example output.
 
 Do not publish real people's phone numbers, generated reports containing personal information, or other private data in the repository.
 
-Before committing:
-
-```bash
-git status
-```
-
-Make sure `phoneintel.json` is not included.
-
-The `.gitignore` file included with this project excludes generated reports.
-
 ## Responsible use
 
 Only analyze phone numbers when you have a legitimate reason and appropriate authorization.
